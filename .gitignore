@@ -1,0 +1,42 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SQLite databases
+
+instance/
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
